@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="pwd_nor">img/pwd_normal.png</file>
+        <file alias="pwd_sel">img/pwd_selected.png</file>
+        <file alias="user_nor">img/user_normal.png</file>
+        <file alias="user_sel">img/user_selected.png</file>
+        <file alias="main_login_bg1">img/main_login1.jpg</file>
+        <file alias="exit">img/exit.png</file>
+        <file alias="file">img/file.png</file>
+        <file alias="main_login_bg">img/main_login.png</file>
+        <file alias="logo">img/logo.png</file>
+        <file alias="login_btn_bg">img/login_btn.png</file>
+        <file alias="logotitle">img/logo0.png</file>
+    </qresource>
+</RCC>

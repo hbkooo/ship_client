@@ -1,0 +1,12 @@
+{
+    "code_name": "GBK",
+    "detect_thresh": {
+        "sar_thresh": 0.69999999999999996,
+        "ship_thresh": 0.59999999999999998,
+        "yolo_thresh": 0.5
+    },
+    "interface_sar": 3,
+    "interface_ship": 2,
+    "interface_yolo": 1,
+    "server": "tcp://127.0.0.1:5563"
+}
